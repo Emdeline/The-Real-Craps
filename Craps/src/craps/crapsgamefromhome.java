@@ -8,7 +8,7 @@ public class crapsgamefromhome
 		static int totalDice;
 		static String userInput; 
 		public static void main(String[] args)
-		
+		// have fun
 		
 			{
 				greetPlayer();	
