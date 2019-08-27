@@ -9,6 +9,7 @@ public class crapsgamefromhome
 		static String userInput; 
 		public static void main(String[] args)
 		// have fun 100
+		/shsdhfgskdjfhgkjld
 		
 			{
 				greetPlayer();	
