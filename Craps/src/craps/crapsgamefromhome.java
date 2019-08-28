@@ -10,6 +10,7 @@ public class crapsgamefromhome
 		public static void main(String[] args)
 		// have fun 100
 		//shsdhfgskdjfhgkjld
+		// hthjhgfdsdfghj I am actually at home
 		
 			{
 				greetPlayer();	
